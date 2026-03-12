@@ -1,0 +1,13 @@
+{
+  "GameName": "FINAL FANTASY XV",
+  "ModPath": "FINAL FANTASY XV/geo-11.7z",
+  "SteamAppId": "637650",
+  "ExecutablePath": "ffxv_s.exe",
+  "RelativeExecutablePath": "",
+  "ReshadeEntryPoint": "d3d9.dll",
+  "ModType": "Geo-11",
+  "Credit": "Helix Mod",
+  "LogoUrl": "FINAL FANTASY XV/images/logo.png",
+  "BannerUrl": "FINAL FANTASY XV/images/wallpaper.jpg",
+  "IconUrl": "FINAL FANTASY XV/images/icon.jpg"
+}
